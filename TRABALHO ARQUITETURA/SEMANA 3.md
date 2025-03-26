@@ -17,6 +17,8 @@ Criada por **Alan Turing** (1936) como um modelo teórico para entender os limit
 
 # 2. Arquitetura de von Neumann
 
+![image](https://github.com/user-attachments/assets/501fc221-ceae-4c52-bc12-933bf994951c)
+
 ### Origem
 Proposta por **John von Neumann** (1945) no relatório "First Draft of a Report on the EDVAC".
 

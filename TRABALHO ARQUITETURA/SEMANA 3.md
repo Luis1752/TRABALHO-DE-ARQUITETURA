@@ -110,12 +110,44 @@ Proposta por **John von Neumann** (1945) no relatório "First Draft of a Report 
 - **Década de 1970:** Surgem os microprocessadores (Intel 4004, 1971).
 
 ---
+---
 
-# Conclusão
+#### 1. Máquina de Turing
+Wikipedia (Visão geral e fundamentos teóricos):
+https://pt.wikipedia.org/wiki/Máquina_de_Turing
 
-- **Máquina de Turing:** Conceito da computação.
-- **Von Neumann:** Estrutura dos computadores modernos.
-- **RISC vs CISC:** Dois modelos de processadores (simplicidade vs complexidade).
-- **Primeiros computadores:** Máquinas gigantescas que evoluíram para os PCs atuais.
+Stanford Encyclopedia of Philosophy (Explicação técnica e conceitual):
+https://plato.stanford.edu/entries/turing-machine/
 
-Esse resumo cobre os pontos essenciais com maior profundidade.
+MIT OpenCourseWare (Materiais acadêmicos sobre teoria da computação):
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+
+#### 2. Arquitetura de von Neumann
+Wikipedia (Introdução e componentes básicos):
+https://pt.wikipedia.org/wiki/Arquitetura_de_von_Neumann
+
+Computer History Museum (Contexto histórico e evolução):
+https://computerhistory.org/
+
+TutorialsPoint (Explicação técnica simplificada):
+https://www.tutorialspoint.com/computer_fundamentals/computer_von_neumann_architecture.htm
+
+#### 3. Arquiteturas RISC e CISC
+GeeksforGeeks (Comparação detalhada com exemplos):
+https://www.geeksforgeeks.org/risc-and-cisc-architecture/
+
+ARM Developer (Documentação oficial sobre arquitetura RISC):
+https://developer.arm.com/
+
+Intel Architecture Manuals (Detalhes sobre CISC/x86):
+https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+
+#### 4. Primeiros Computadores
+Computer History Museum (Linha do tempo e fotos de máquinas antigas):
+https://computerhistory.org/timeline/computers/
+
+Wikipedia - História dos Computadores:
+https://pt.wikipedia.org/wiki/História_do_computador
+
+BBC - The Birth of the Computer (Documentário e artigos):
+https://www.bbc.com/news/technology-18457719

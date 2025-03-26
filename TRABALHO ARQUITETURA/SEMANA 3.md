@@ -111,7 +111,9 @@ Proposta por **John von Neumann** (1945) no relatório "First Draft of a Report 
 
 ---
 ---
+---
 
+## FONTE: 
 #### 1. Máquina de Turing
 Wikipedia (Visão geral e fundamentos teóricos):
 https://pt.wikipedia.org/wiki/Máquina_de_Turing

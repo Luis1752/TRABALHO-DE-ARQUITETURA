@@ -1,4 +1,5 @@
 # 1. Máquina de Turing
+![image](https://github.com/user-attachments/assets/ede232cb-3849-4f61-9e81-cc343c792bcb)
 
 ### Definição e Conceito
 Criada por **Alan Turing** (1936) como um modelo teórico para entender os limites da computação. Representa um sistema formal capaz de simular qualquer algoritmo computacional.

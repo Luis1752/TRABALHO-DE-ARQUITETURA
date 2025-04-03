@@ -83,14 +83,14 @@ A escolha entre RISC e CISC depende do tipo de aplicação. Processadores RISC s
 ## Como funciona?
 
 A Máquina de Turing consiste em:
-	1.	Fita infinita – Um tipo de memória que pode ser lida, escrita e movida para frente e para trás. Cada posição da fita contém um símbolo.
-	2.	Cabeçote de leitura/escrita – Responsável por ler o símbolo atual na fita, modificar o símbolo se necessário e mover-se para a esquerda ou para a direita.
-	3.	Conjunto de estados – A máquina pode estar em um estado específico em cada momento.
-	4.	Tabela de regras (função de transição) – Define o que a máquina deve fazer com base no estado atual e no símbolo lido. Ela pode:
+1.	Fita infinita – Um tipo de memória que pode ser lida, escrita e movida para frente e para trás. Cada posição da fita contém um símbolo.
+2.	Cabeçote de leitura/escrita – Responsável por ler o símbolo atual na fita, modificar o símbolo se necessário e mover-se para a esquerda ou para a direita.
+3.	Conjunto de estados – A máquina pode estar em um estado específico em cada momento.
+4.	Tabela de regras (função de transição) – Define o que a máquina deve fazer com base no estado atual e no símbolo lido. Ela pode:
 	•	Substituir o símbolo atual por outro
 	•	Mover o cabeçote para a esquerda ou para a direita
 	•	Mudar para um novo estado
-	5.	Estado final – Indica que a computação foi concluída.
+5.	Estado final – Indica que a computação foi concluída.
 
 ## Exemplo simples
 Pensa em um robô que anda sobre uma longa faixa de papel (a “fita” da Máquina de Turing). Nessa fita, há quadrados com símbolos escritos, como “0”, “1” ou “espaço em branco”. O robô tem um conjunto de regras simples para seguir.

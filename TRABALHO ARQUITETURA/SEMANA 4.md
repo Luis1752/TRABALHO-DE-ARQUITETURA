@@ -62,6 +62,7 @@ Processadores IBM System/360 (mainframes)
 ---
 
 ## 3. Diferenças entre RISC e CISC
+![image](https://github.com/user-attachments/assets/115459ec-d7af-4dce-a6ab-68275a7b93c9)
 
 
 ---

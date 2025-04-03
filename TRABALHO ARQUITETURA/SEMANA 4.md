@@ -77,7 +77,8 @@ CISC: Computadores pessoais, servidores, mainframes, aplicações empresariais
 
 A escolha entre RISC e CISC depende do tipo de aplicação. Processadores RISC são mais eficientes e econômicos, ideais para dispositivos móveis e sistemas embarcados. Já os CISC são melhores para aplicações que exigem alto desempenho e compatibilidade, como desktops e servidores.
 ----
-# A Máquina de Turing é um modelo teórico de computação criado pelo matemático Alan Turing em 1936. Ela foi desenvolvida para estudar os limites do que pode ser calculado e é considerada a base teórica para os computadores modernos.
+# A Máquina de Turing 
+é um modelo teórico de computação criado pelo matemático Alan Turing em 1936. Ela foi desenvolvida para estudar os limites do que pode ser calculado e é considerada a base teórica para os computadores modernos.
 
 ## Como funciona?
 
@@ -101,9 +102,7 @@ Regras que o robô segue:
 	2.	Se ele estiver sobre um “1”, apenas anda para a direita.
 	3.	Se ele encontrar um espaço em branco, para.
 
-### Importância
-	•	A Máquina de Turing ajudou a formalizar o conceito de algoritmo e computação.
-	•	Provou que certos problemas são indecidíveis (não há algoritmo que possa resolvê-los).
-	•	Inspirou a construção de computadores eletrônicos reais.
-
-Se quiser, posso te mostrar um exemplo mais detalhado de como ela funciona!
+## Importância
+•	A Máquina de Turing ajudou a formalizar o conceito de algoritmo e computação.
+•	Provou que certos problemas são indecidíveis (não há algoritmo que possa resolvê-los).
+•	Inspirou a construção de computadores eletrônicos reais.
